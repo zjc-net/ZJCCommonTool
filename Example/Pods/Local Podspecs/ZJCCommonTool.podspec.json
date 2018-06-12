@@ -1,0 +1,33 @@
+{
+  "name": "ZJCCommonTool",
+  "version": "0.0.1",
+  "summary": "A short description of ZJCCommonTool.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/PurangTechnology/ZJCCommonTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "PurangTechnology": "39478474+PurangTechnology@users.noreply.github.com"
+  },
+  "source": {
+    "git": "https://github.com/PurangTechnology/ZJCCommonTool.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZJCCommonTool/Classes/**/*",
+  "dependencies": {
+    "MBProgressHUD": [
+
+    ],
+    "AFNetworking": [
+
+    ],
+    "YTKNetwork": [
+
+    ]
+  }
+}
