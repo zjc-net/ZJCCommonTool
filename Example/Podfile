@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZJCCommonTool_Example' do
+  pod 'ZJCCommonTool', :path => '../'
+
+  target 'ZJCCommonTool_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
